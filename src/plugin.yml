@@ -1,0 +1,5 @@
+name: Test
+Author: SadMap
+version: 0.0.1
+main: me.sadmap.learn.Learn
+description: My First Plugin !
